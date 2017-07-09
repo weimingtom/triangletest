@@ -1,0 +1,6 @@
+https://github.com/flyfire/guoyishi-works/blob/4e78c8f2e902589c3f06387374024225f52e5a92/Learning%20OpenCV/Chapter%206%20-%20Image%20Transforms/Ex_6_2.cpp
+
+https://github.com/PECO1987/RubicCube/blob/e6d054442cdbf88894ebdf30aef8b1027c84b03a/src/jp/nabe/rubiccube/AffineMatrix.java
+
+https://github.com/pwlam09/FYP/blob/fc012aa23cf31482550e368b4dd99841324e3686/src/main/java/com/bric/geom/TransformUtils.java
+
